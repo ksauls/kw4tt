@@ -1,0 +1,4 @@
+baseURL = 'https://kw4tt.fyi/'
+locale = 'en-us'
+title = 'KW4TT'
+theme = "hugo-theme-techdoc"
