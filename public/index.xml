@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 24 Oct 2026 19:45:29 -0400</lastBuildDate>
+			<lastBuildDate>Sun, 25 Oct 2026 14:43:28 -0400</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ham Radio is Not Dying, It is Evolving</title>
+				<link>http://localhost:1313/posts/radiohobby/</link>
+				<pubDate>Sun, 25 Oct 2026 14:43:28 -0400</pubDate>
+				<guid>http://localhost:1313/posts/radiohobby/</guid>
+				<description>&lt;p&gt;Every so often I run across an article or video lamenting the imminent death of Amateur Radio.  These folks generally point to how radio has changed over the last few decades as the internet and cellphones have gained prominence in our lives. They argue that the ubiquity of those devices have opened up a world of communication that once was almost solely the domain of radio. Specifically ham radio.&lt;/p&gt;&#xA;&lt;p&gt;And it&amp;rsquo;s true: Cellphones and the internet have made communicating with almost anyone, anywhere in the world simple. Moreover, the quality of the connection, the sound quality and so on are excellent and immediate. As an online instructor I had students all over the world. Using the school&amp;rsquo;s VOIP phone system  I could talk with students in Saipan as easily as I could a student down the street. And the quality was excellent with little to no jitter or delay. Truthfully, the same cannot be said for communicating around with world with radio. Atmospheric conditions, sadly, play a large role in the quality of the connection with radio.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Welcome</title>
 				<link>http://localhost:1313/posts/welcome/</link>
