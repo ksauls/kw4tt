@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
+	<channel>
+		<title>KW4TT</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on KW4TT</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 19:45:29 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome</title>
+				<link>http://localhost:1313/posts/welcome/</link>
+				<pubDate>Sat, 24 Oct 2026 19:45:29 -0400</pubDate>
+				<guid>http://localhost:1313/posts/welcome/</guid>
+				<description>&lt;p&gt;Welcome to my website.&lt;/p&gt;&#xA;&lt;p&gt;This is the first post for the site.  There&amp;rsquo;s more coming.&lt;/p&gt;&#xA;&lt;p&gt;Just be patient  :)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h1 id=&#34;about-me&#34;&gt;About Me!&lt;/h1&gt;&#xA;&lt;p&gt;Hi!  I&amp;rsquo;m Kevin Sauls, KW4TT.&lt;/p&gt;&#xA;&lt;p&gt;I have been an amateur radio operator since late 2018 and achieved my Extra ticket in mid-2026. I&amp;rsquo;ve been an computer geek for far longer: I started with a Commodore 128 way back in 1986.  I&amp;rsquo;ve been through a LOT of computers since then.&lt;/p&gt;&#xA;&lt;p&gt;This site is all about my exploration of the &lt;em&gt;many&lt;/em&gt; aspects of amateur radio.&lt;/p&gt;&#xA;&lt;p&gt;Here are a few of my links:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -4,3 +4,6 @@
 [submodule "themes/etch"]
 	path = themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/notebook"]
+	path = themes/notebook
+	url = https://github.com/its-ammu/hugo-notebook.git

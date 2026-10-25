@@ -1,4 +1,44 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kw4tt.fyi/'
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme ='etch'
+title = 'KW4TT'
+theme ='notebook'
+
+[params]
+  description = "Notes on whatever catches my technological eye related to radio, computers, and self-hosting.  These notes are a combination of technical notes, thoughts on technology, plans for future experiments and explorations.   These are written mostly for my reference, but I'm sharing them with you."
+  author = "Kevin Sauls "
+  defaultTheme = "light"   # "light" or "dark"
+  ShowReadingTime = true
+  DateFormat = "January 2, 2006"
+  favicon = "favicon.ico"
+
+  # Shown on the home intro card
+  [params.profileMode]
+    subtitle = "Curious Old Man"
+
+  # Social buttons on the home intro card (icon-only: github, linkedin)
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/your-handle"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/your-handle/"
+
+# Spine navigation. Mark external links with params.external = true.
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 15
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 25
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow inline SVG/HTML illustrations in posts
