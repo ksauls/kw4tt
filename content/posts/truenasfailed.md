@@ -1,6 +1,7 @@
 +++
 date = '2026-10-27T20:48:35-04:00'
 draft = false
+tags = ['self-hosting']
 title = 'Recovering From a Failure of my Truenas OS Drive'
 +++
 
@@ -11,7 +12,7 @@ Now I've only been using Truenas about a year so I'm not really familiar with a 
 
 I was wrong.
 
-The wonderful thing about Truenas, I discovered, is that because the data does not live on the OS drive the data itself is safe.  That said, I have run into similar issues before (Windows, I'm looking at you) where even though the data was on another drive the pointers to that data didn't. As a result even though the data was on another drive, accessing that data was a huge mess.
+The wonderful thing about Truenas, I discovered, is that because the data does not live on the OS drive the data itself is safe.  That said, I have run into similar issues before (Windows, I'm looking at you) where even though the data was on another drive the pointers to that data wasn't. As a result even though the data was on another drive, accessing that data was a huge mess.
 
 Not so with Truenas.
 

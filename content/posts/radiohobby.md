@@ -1,6 +1,7 @@
 +++
 date = '2026-10-25T14:43:28-04:00'
 draft = false
+tags = ['radio','ham radio']
 title = 'Ham Radio is Not Dying, It is Evolving'
 +++
 Every so often I run across an article or video lamenting the imminent death of Amateur Radio.  These folks generally point to how radio has changed over the last few decades as the internet and cellphones have gained prominence in our lives. They argue that the ubiquity of those devices have opened up a world of communication that once was almost solely the domain of radio. Specifically ham radio. 

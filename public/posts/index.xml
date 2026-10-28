@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 25 Oct 2026 14:43:28 -0400</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 20:48:35 -0400</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Recovering From a Failure of my Truenas OS Drive</title>
+				<link>http://localhost:1313/posts/truenasfailed/</link>
+				<pubDate>Tue, 27 Oct 2026 20:48:35 -0400</pubDate>
+				<guid>http://localhost:1313/posts/truenasfailed/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s nothing quite like waking up to find that the server that you rely on for most of your services, and on which you store your writing, is not responding and is making that sickening clicky noise that says &amp;ldquo;dead drive&amp;rdquo;. Welp, that was my morning.&lt;/p&gt;&#xA;&lt;p&gt;Now I&amp;rsquo;ve only been using Truenas about a year so I&amp;rsquo;m not really familiar with a lot of the nuances of managing these kinds of events. I was very concerned that the process was going to be long, convoluted, and would end up borking my data.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Ham Radio is Not Dying, It is Evolving</title>
 				<link>http://localhost:1313/posts/radiohobby/</link>
