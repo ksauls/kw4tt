@@ -2,7 +2,6 @@ baseURL = 'https://kw4tt.fyi/'
 locale = 'en-us'
 title = 'KW4TT'
 theme ='notebook'
-
 [params]
   description = "Notes on whatever catches my technological eye related to radio, computers, and self-hosting.  These notes are a combination of technical notes, thoughts on technology, plans for future experiments and explorations.   These are written mostly for my reference, but I'm sharing them with you."
   author = "Kevin Sauls "
@@ -16,12 +15,13 @@ theme ='notebook'
     subtitle = "Curious Old Man"
 
   # Social buttons on the home intro card (icon-only: github, linkedin)
+ # [[params.socialIcons]]
+ #   name = "github"
+ #   url = "https://github.com/your-handle"
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/your-handle"
-  [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/your-handle/"
+ #   name = "linkedin"
+ #   url = "https://www.linkedin.com/in/your-handle/"
+
 
 # Spine navigation. Mark external links with params.external = true.
 [[menu.main]]

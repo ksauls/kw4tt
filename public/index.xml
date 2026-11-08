@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 20:48:35 -0400</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 11:47:42 -0500</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Setting up a 44Net Network at Home</title>
+				<link>http://localhost:1313/posts/44net/</link>
+				<pubDate>Sun, 08 Nov 2026 11:47:42 -0500</pubDate>
+				<guid>http://localhost:1313/posts/44net/</guid>
+				<description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;&#xA;&lt;p&gt;This project is part of a larger project related to learning how to integrate the internet with radio. As I learn more and build out the pieces of that project I will try to document them here.&lt;/p&gt;&#xA;&lt;p&gt;This project has three goals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Learn more about the 44 net&lt;/li&gt;&#xA;&lt;li&gt;Build skills in creating and managing subnets, including firewall management&lt;/li&gt;&#xA;&lt;li&gt;Create a separate network for my AllStarLink, WPSD, and other radio related devices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;An Amateur Radio License&lt;/strong&gt; (you will need to upload an official copy of your license to validate your eligibility to participate in 44net.)&lt;/li&gt;&#xA;&lt;li&gt;Some knowledge/skill in network administration&lt;/li&gt;&#xA;&lt;li&gt;Comfort on the commandline&lt;/li&gt;&#xA;&lt;li&gt;at least two devices that can be used to create this network. I used a Raspberry Pi 3B+ and it worked fine.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I installed a basic Debian OS on the device using the Raspberry Pi installer program on my Mac. My &amp;lsquo;second&amp;rsquo; device was actually a switch that served four other computers. These were only for testing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Patience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;first-steps&#34;&gt;First Steps&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;NOTE:&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Recovering From a Failure of my Truenas OS Drive</title>
 				<link>http://localhost:1313/posts/truenasfailed/</link>

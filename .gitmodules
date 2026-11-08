@@ -7,3 +7,9 @@
 [submodule "themes/notebook"]
 	path = themes/notebook
 	url = https://github.com/its-ammu/hugo-notebook.git
+[submodule "themes/lowkey"]
+	path = themes/lowkey
+	url = https://github.com/nixentric/Lowkey-Hugo-Theme.git
+[submodule "themes/anubis2"]
+	path = themes/anubis2
+	url = https://github.com/hugo-theme-anubis2/hugo-theme-anubis2.git
