@@ -1,6 +1,7 @@
 +++
 date = '2026-11-08T11:47:42-05:00'
-draft = true
+draft = false
+tags = ['radio','networking']
 title = 'Setting up a 44Net Network at Home'
 +++
 ## Goals
