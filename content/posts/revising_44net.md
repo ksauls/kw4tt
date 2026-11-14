@@ -1,6 +1,6 @@
 +++
 date = '2026-11-13T18:12:30-05:00'
-draft = 
+draft = false 
 title = 'Moving my 44Net from Raspberry Pi to Mikrotik'
 +++
 
